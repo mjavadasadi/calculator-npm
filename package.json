@@ -1,0 +1,19 @@
+{
+  "name": "calculator-nodejs-npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjavadasadi/calculator-npm.git"
+  },
+  "author": "mjavadasadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjavadasadi/calculator-npm/issues"
+  },
+  "homepage": "https://github.com/mjavadasadi/calculator-npm#readme",
+  "description": ""
+}
